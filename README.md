@@ -11,7 +11,6 @@ who loves building <span style="color:#FACC15;">secure</span>,
 </p>
 
 <br/>
-# 💫 About Me:
 👋 About Me<br><br>🛠 I’m currently working on<br>Full-stack web applications using the MERN stack, focusing on secure authentication, role-based access control (RBAC), REST APIs, and real-time features with Socket.IO. I also practice DSA regularly on LeetCode and GFG.<br><br>🤝 I’m looking to collaborate on<br>Full-stack projects, real-time systems, backend-heavy applications, and open-source projects involving React, Node.js, MongoDB, or WebSockets.<br><br>🙏 I’m looking for help with<br>Advanced system design, scalable backend architecture, and improving deployment & cloud practices for production-ready applications.<br><br>🌱 I’m currently learning<br>Backend optimization, JWT security best practices, database indexing & transactions, and deeper concepts in computer networks and operating systems.<br><br>💬 Ask me about<br>MERN stack development, JWT authentication, role-based access control, real-time chat systems, REST APIs, MongoDB design, and DSA interview preparation.<br><br>⚡ Fun fact<br>I’ve solved 500+ DSA problems and still enjoy debugging backend bugs more than writing frontend CSS 😄
 
 
