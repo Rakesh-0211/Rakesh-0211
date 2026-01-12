@@ -1,22 +1,53 @@
-👋 About Me
+<h1 align="center">
+  Hey there 👋, I'm 
+  <span style="color:#00E676;">Rakesh Kumar Barik</span>
+</h1>
 
-🛠 I’m currently working on
-Full-stack web applications using the MERN stack, with a strong focus on backend development. My work includes building JWT-secured REST APIs, implementing role-based access control (RBAC), designing MongoDB schemas with indexing, and developing real-time features using Socket.IO and WebRTC. I actively practice DSA on LeetCode, GeeksforGeeks, and CodeChef.
+<h3 align="center">
+  A <span style="color:#38BDF8;">Full-Stack MERN Developer</span> 🚀  
+  focused on <span style="color:#FACC15;">secure</span>, 
+  <span style="color:#A78BFA;">scalable</span> backend-heavy systems
+</h3>
 
-🤝 I’m looking to collaborate on
-Backend-heavy full-stack projects, real-time systems, and open-source applications involving Node.js, Express, MongoDB, React, or WebSockets—especially projects that emphasize scalability, security, and clean architecture.
+<p align="center">
+  💻 Backend-focused • 🔐 JWT & RBAC • ⚡ Real-time Systems • 🧠 DSA Enthusiast
+</p>
 
-🙏 I’m looking for help with
-Advanced system design, distributed backend architectures, and improving cloud deployment workflows using Docker, Kubernetes, and AWS for production-grade systems.
+<br/>
 
-🌱 I’m currently learning
-Backend optimization, JWT access & refresh token security, database indexing and transactions, microservices fundamentals, and deeper concepts in Operating Systems and Computer Networks.
+<h2>👋 About Me</h2>
 
-💬 Ask me about
-MERN stack development, JWT authentication, RBAC, REST API design, MongoDB schema modeling, Socket.IO-based real-time apps, WebRTC basics, and DSA interview preparation.
+🛠 <b>I’m currently working on</b><br/>
+Full-stack web applications using the <b>MERN stack</b>, with strong emphasis on backend development.  
+I build <b>JWT-secured REST APIs</b>, implement <b>role-based access control (RBAC)</b>, design optimized <b>MongoDB schemas with indexing</b>, and develop <b>real-time systems using Socket.IO and WebRTC</b>.  
+I actively practice <b>Data Structures & Algorithms</b> on LeetCode, GeeksforGeeks, and CodeChef.
 
-⚡ Fun fact
-I’ve solved 600+ DSA problems and genuinely enjoy debugging backend race conditions more than styling frontend components 😄
+<br/><br/>
+
+🤝 <b>I’m looking to collaborate on</b><br/>
+Backend-heavy full-stack projects, <b>real-time applications</b>, scalable systems, and open-source projects involving <b>Node.js, Express, MongoDB, React, WebSockets</b>, and system-oriented problem solving.
+
+<br/><br/>
+
+🙏 <b>I’m looking for help with</b><br/>
+Advanced <b>system design</b>, scalable backend architectures, and improving <b>cloud-native deployment workflows</b> using Docker, Kubernetes, and AWS for production-ready systems.
+
+<br/><br/>
+
+🌱 <b>I’m currently learning</b><br/>
+Backend optimization techniques, <b>JWT access & refresh token security</b>, database <b>indexing and transactions</b>, microservices fundamentals, and deeper concepts in <b>Operating Systems</b> and <b>Computer Networks</b>.
+
+<br/><br/>
+
+💬 <b>Ask me about</b><br/>
+MERN stack development, JWT authentication, RBAC, REST API design, MongoDB schema modeling, Socket.IO-based real-time apps, WebRTC basics, and <b>DSA interview preparation</b>.
+
+<br/><br/>
+
+⚡ <b>Fun fact</b><br/>
+I’ve solved <b>600+ DSA problems</b> and genuinely enjoy debugging backend race conditions more than writing frontend CSS 😄
+
+
 
 
 ## 🌐 Socials:
