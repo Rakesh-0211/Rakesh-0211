@@ -1,17 +1,22 @@
-<h1 align="center">Hey there 👋, I'm <span style="color:#00E676;">Rakesh Kumar Barik</span></h1>
+👋 About Me
 
-<h3 align="center">
-A <span style="color:#38BDF8;">Full-Stack MERN Developer</span> 🚀 
-who loves building <span style="color:#FACC15;">secure</span>, 
-<span style="color:#A78BFA;">scalable</span> web applications
-</h3>
+🛠 I’m currently working on
+Full-stack web applications using the MERN stack, with a strong focus on backend development. My work includes building JWT-secured REST APIs, implementing role-based access control (RBAC), designing MongoDB schemas with indexing, and developing real-time features using Socket.IO and WebRTC. I actively practice DSA on LeetCode, GeeksforGeeks, and CodeChef.
 
-<p align="center">
-💻 Backend-heavy • 🔐 JWT & RBAC • ⚡ Real-time Systems • 🧠 DSA Enthusiast
-</p>
+🤝 I’m looking to collaborate on
+Backend-heavy full-stack projects, real-time systems, and open-source applications involving Node.js, Express, MongoDB, React, or WebSockets—especially projects that emphasize scalability, security, and clean architecture.
 
-<br/>
-👋 About Me<br><br>🛠 I’m currently working on<br>Full-stack web applications using the MERN stack, focusing on secure authentication, role-based access control (RBAC), REST APIs, and real-time features with Socket.IO. I also practice DSA regularly on LeetCode and GFG.<br><br>🤝 I’m looking to collaborate on<br>Full-stack projects, real-time systems, backend-heavy applications, and open-source projects involving React, Node.js, MongoDB, or WebSockets.<br><br>🙏 I’m looking for help with<br>Advanced system design, scalable backend architecture, and improving deployment & cloud practices for production-ready applications.<br><br>🌱 I’m currently learning<br>Backend optimization, JWT security best practices, database indexing & transactions, and deeper concepts in computer networks and operating systems.<br><br>💬 Ask me about<br>MERN stack development, JWT authentication, role-based access control, real-time chat systems, REST APIs, MongoDB design, and DSA interview preparation.<br><br>⚡ Fun fact<br>I’ve solved 500+ DSA problems and still enjoy debugging backend bugs more than writing frontend CSS 😄
+🙏 I’m looking for help with
+Advanced system design, distributed backend architectures, and improving cloud deployment workflows using Docker, Kubernetes, and AWS for production-grade systems.
+
+🌱 I’m currently learning
+Backend optimization, JWT access & refresh token security, database indexing and transactions, microservices fundamentals, and deeper concepts in Operating Systems and Computer Networks.
+
+💬 Ask me about
+MERN stack development, JWT authentication, RBAC, REST API design, MongoDB schema modeling, Socket.IO-based real-time apps, WebRTC basics, and DSA interview preparation.
+
+⚡ Fun fact
+I’ve solved 600+ DSA problems and genuinely enjoy debugging backend race conditions more than styling frontend components 😄
 
 
 ## 🌐 Socials:
