@@ -22,27 +22,21 @@ Full-stack web applications using the <b>MERN stack</b>, with strong emphasis on
 I build <b>JWT-secured REST APIs</b>, implement <b>role-based access control (RBAC)</b>, design optimized <b>MongoDB schemas with indexing</b>, and develop <b>real-time systems using Socket.IO and WebRTC</b>.  
 I actively practice <b>Data Structures & Algorithms</b> on LeetCode, GeeksforGeeks, and CodeChef.
 
-<br/><br/>
 
 🤝 <b>I’m looking to collaborate on</b><br/>
 Backend-heavy full-stack projects, <b>real-time applications</b>, scalable systems, and open-source projects involving <b>Node.js, Express, MongoDB, React, WebSockets</b>, and system-oriented problem solving.
 
-<br/><br/>
 
 🙏 <b>I’m looking for help with</b><br/>
 Advanced <b>system design</b>, scalable backend architectures, and improving <b>cloud-native deployment workflows</b> using Docker, Kubernetes, and AWS for production-ready systems.
 
-<br/><br/>
 
 🌱 <b>I’m currently learning</b><br/>
 Backend optimization techniques, <b>JWT access & refresh token security</b>, database <b>indexing and transactions</b>, microservices fundamentals, and deeper concepts in <b>Operating Systems</b> and <b>Computer Networks</b>.
 
-<br/><br/>
 
 💬 <b>Ask me about</b><br/>
 MERN stack development, JWT authentication, RBAC, REST API design, MongoDB schema modeling, Socket.IO-based real-time apps, WebRTC basics, and <b>DSA interview preparation</b>.
-
-<br/><br/>
 
 ⚡ <b>Fun fact</b><br/>
 I’ve solved <b>600+ DSA problems</b> and genuinely enjoy debugging backend race conditions more than writing frontend CSS 😄
